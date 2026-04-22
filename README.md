@@ -29,3 +29,4 @@ Este projeto é uma aplicação web industrial desenvolvida para a gestão de da
 - [x] Pré-preenchimento de dados sociais.
 - [x] Exportação de dados via JSON local.
 - [x] Design responsivo e premium.
+ LINK ONLINE:https://imaginative-donut-61523b.netlify.app/
