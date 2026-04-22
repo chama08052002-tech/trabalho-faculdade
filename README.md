@@ -2,18 +2,18 @@
 
 Este projeto é uma aplicação web industrial desenvolvida para a gestão de dados técnicos e apresentação de corpo docente/técnico.
 
-## 👥 Integrantes
+##  Integrantes
 - **Gustavo Almeida**: Especialista em Hardware e Infraestrutura.
-- **Carlos Eduardo da Silva Lima (Kadu)**: Arquiteto de Interfaces Frontend.
+- **Carlos Eduardo da Silva Lima**: Arquiteto de Interfaces Frontend.
 
-## 🚀 Tecnologias
+## Tecnologias
 - **React 19** & **Vite**
 - **Three.js** (Background 3D dinâmico)
 - **Framer Motion** (Animações de interface)
 - **Lucide React** (Iconografia técnica)
 - **Google OAuth 2.0**
 
-## 🛠️ Instalação
+##  Instalação
 1. Clone o repositório.
 2. Instale as dependências: `npm install`.
 3. Configure o arquivo `.env`:
@@ -22,10 +22,12 @@ Este projeto é uma aplicação web industrial desenvolvida para a gestão de da
    ```
 4. Inicie o servidor: `npm run dev`.
 
-## 📌 Requisitos Atendidos
+## Requisitos Atendidos
 - [x] Login Social com Google.
 - [x] Rota restrita para Equipe.
 - [x] Rota restrita para Registro.
 - [x] Pré-preenchimento de dados sociais.
 - [x] Exportação de dados via JSON local.
 - [x] Design responsivo e premium.
+
+- [ ] LINK ONLINE:https://imaginative-donut-61523b.netlify.app/
