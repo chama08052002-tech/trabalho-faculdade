@@ -4,7 +4,7 @@ Este projeto é uma aplicação web industrial desenvolvida para a gestão de da
 
 ##  Integrantes
 - **Gustavo Almeida**: Especialista em Hardware e Infraestrutura.
-- **Carlos Eduardo da Silva Lima (Kadu)**: Arquiteto de Interfaces Frontend.
+- **Carlos Eduardo da Silva Lima **: Arquiteto de Interfaces Frontend.
 
 ## Tecnologias
 - **React 19** & **Vite**
